@@ -1,0 +1,2 @@
+1 + 2 + 3 + 4
+system.print.out ("the result is: $10");
